@@ -1,0 +1,1 @@
+Coucou is a platforom whereby individuals get to interact and have discussions related to programming. This can be intergrated in online academies such as PLP as it offers study rooms for discussions.
